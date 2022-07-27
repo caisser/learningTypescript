@@ -1,0 +1,19 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "@types/google.maps": "^3.49.2",
+    "parcel-bundler": "^1.12.5"
+  }
+}
